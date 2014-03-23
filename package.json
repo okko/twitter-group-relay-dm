@@ -1,0 +1,12 @@
+{
+  "name":        "twitter-group-relay-dm",
+  "version":     "0.0.2",
+  "author":      "Oskari Okko Ojala",
+  "description": "Relay Twitter Direct messages to a subscription group",
+
+  "dependencies": {
+    "user-stream": "0.0.7",
+    "twit": "1.1.12"
+  }
+}
+
